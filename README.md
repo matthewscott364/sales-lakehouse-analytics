@@ -26,7 +26,7 @@ Databricks SQL Dashboard
 
 The dashboard provides a high-level overview of sales performance across time, product categories, and regions.
 
-![Sales Lakehouse Dashboard Preview](assets/dashboard_preview.png)
+![Sales Lakehouse Dashboard Preview](assets/f485953b1024dcb2141584379c42db54.png)
 
 ### Dashboard Components
 - **Total Revenue Over Time**  
